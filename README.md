@@ -47,10 +47,3 @@ Our comparative analysis yielded the following performance metrics:
 
 ### Configuration
 * **`requirements.txt`**: A list of Python dependencies (`numpy`, `pandas`, `logomaker`, `seaborn`, `tqdm`) required to run the project.
-
-## Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/motif-discovery.git](https://github.com/YOUR_USERNAME/motif-discovery.git)
-   cd motif-discovery
