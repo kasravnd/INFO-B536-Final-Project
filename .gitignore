@@ -1,0 +1,21 @@
+# 1. Virtual Environment (Never upload this!)
+venv/
+env/
+
+# 2. Python compiled files
+__pycache__/
+*.pyc
+
+# 3. System files
+.DS_Store
+
+# 4. Large Data & Output Files
+# (We usually ignore these to keep the repo clean, 
+# but keep the .pngs so your README looks good)
+*.sites
+found_motifs.csv
+results_summary.txt
+
+# 5. IDE settings (Optional, good practice)
+.vscode/
+.idea/
