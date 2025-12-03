@@ -12,7 +12,7 @@ __pycache__/
 # 4. Large Data & Output Files
 # (We usually ignore these to keep the repo clean, 
 # but keep the .pngs so your README looks good)
-*.sites
+# *.sites
 found_motifs.csv
 results_summary.txt
 
