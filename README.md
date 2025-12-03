@@ -1,6 +1,5 @@
 # Gibbs Sampling for DNA Motif Discovery
 
-**Authors:** Kasra Vand, Matthew Ng, Akanksha Tipparti, Upol Chowdhury  
 **Course:** B536 - Computational Biology  
 
 ## Project Overview
